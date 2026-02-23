@@ -200,4 +200,4 @@ These programs demonstrate practical applications of loops such as factorial cal
 
 Through this experiment, we studied the working of **while loops in Python** and understood how repetition is controlled using conditions. We also explored practical applications such as factorial calculation, Fibonacci series generation, palindrome checking, digit counting, and searching techniques.
 
-This experiment strengthens logical thinking and builds a solid foundation for advanced programming concepts like nested loops, recursion, and algorithm desi
+This experiment strengthens logical thinking and builds a solid foundation for advanced programming concepts like nested loops, recursion, and algorithm design.
